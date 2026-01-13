@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlmodel
+openai
+python-dotenv
+asyncpg
+pydantic
